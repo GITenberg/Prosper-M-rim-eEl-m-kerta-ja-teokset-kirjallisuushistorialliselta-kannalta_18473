@@ -1,0 +1,29 @@
+_repo: Prosper-M-rim-eEl-m-kerta-ja-teokset-kirjallisuushistorialliselta-kannalta_18473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Kasimir
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6366'
+    url: http://www.gutenberg.org/2009/agents/6366
+description: ''
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18473'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- !lcsh 'Mérimée, Prosper, 1803-1870'
+- !lcc 'PQ'
+title: 'Prosper Mérimée
+
+  Elämäkerta ja teokset kirjallisuushistorialliselta kannalta'
+url: http://www.gutenberg.org/ebooks/18473
