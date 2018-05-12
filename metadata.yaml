@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6366'
     url: http://www.gutenberg.org/2009/agents/6366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18473#Prosper-M-rim-eEl-m-kerta-ja-teokset-kirjallisuushistorialliselta-kannalta
 gutenberg_issued: '2006-05-30'
 gutenberg_type: Text
 identifiers:
